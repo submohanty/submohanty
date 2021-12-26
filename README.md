@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sub</h1>
+<h1 align="center">I'm Sub</h1>
 <h3 align="center">I like computers and tech and etc.</h3>
 
 - 🔭 I’m currently working on **a Python based app tracking visualizer**
