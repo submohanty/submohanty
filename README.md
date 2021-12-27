@@ -5,15 +5,10 @@
 
 - 🌱 I’m currently learning **linear algebra**
 
-- 👨‍💻 All of my projects are available at [here](here)
-
-- 📝 I regularly write articles on [don't](don't)
-
 - 💬 Ask me about **football, random tech topics**
 
 - ⚡ Fun fact **idk**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
