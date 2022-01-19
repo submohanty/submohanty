@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sub Mohanty</h1>
 <h3 align="center">3rd year B.S. in Computer Science with Data Science minor at University of Colorado Boulder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=submohanty&label=Profile%20views&color=0e75b6&style=plastic" alt="submohanty" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=submohanty&label=Profile%20views&color=0e75b6&style=plastic" alt="submohanty" /> </p> -->
 
 - 🔭 I’m currently working on **a Django based web app to find easy food recipes and share them**
 
