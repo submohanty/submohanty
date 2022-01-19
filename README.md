@@ -1,13 +1,11 @@
 <h1 align="center">I'm Sub</h1>
-<h3 align="center">I like computers and tech and etc.</h3>
+<h3 align="center">I'm passionate about all things technology</h3>
 
-- 🔭 I’m currently working on **a Python based app tracking visualizer**
+- 🔭 I’m currently working on **a Django based web app to find easy food recipes and share them**
 
-- 🌱 I’m currently learning **linear algebra**
+- 🌱 I’m currently learning **linear algebra, Python data viz, and high performance computing**
 
-- 💬 Ask me about **football, random tech topics**
-
-- ⚡ Fun fact **idk**
+- 💬 Ask me about **football/fantasy, game dev, and making music**
 
 <p align="left">
 </p>
