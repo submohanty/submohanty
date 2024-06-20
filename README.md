@@ -3,11 +3,9 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=submohanty&label=Profile%20views&color=0e75b6&style=plastic" alt="submohanty" /> </p> -->
 
-- 🔭 I’m currently working on **an iOS app to help surgeons manage patient outcomes.**
+- 🔭 I’m currently working on **a Pokemon app.**
 
-- 📝 I’m currently learning **PyTorch.**
-
-- 💬 Ask me about **football/fantasy, game dev, and making music**
+- 📝 I’m currently learning **TypeScript.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
